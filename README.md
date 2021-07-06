@@ -1,2 +1,2 @@
 # iGarden
-Projeto de um site para um empresa fictícia.
+Projeto de  site para empresa fictícia.
